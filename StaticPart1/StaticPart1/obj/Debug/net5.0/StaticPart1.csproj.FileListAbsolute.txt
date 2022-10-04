@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\bin\Debug\net5.0\StaticPart1.exe
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\bin\Debug\net5.0\StaticPart1.deps.json
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\bin\Debug\net5.0\StaticPart1.runtimeconfig.json
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\bin\Debug\net5.0\StaticPart1.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\bin\Debug\net5.0\StaticPart1.dll
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\bin\Debug\net5.0\StaticPart1.pdb
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\obj\Debug\net5.0\StaticPart1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\obj\Debug\net5.0\StaticPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\obj\Debug\net5.0\StaticPart1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\obj\Debug\net5.0\StaticPart1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\obj\Debug\net5.0\StaticPart1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\obj\Debug\net5.0\StaticPart1.dll
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\obj\Debug\net5.0\refint\StaticPart1.dll
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\obj\Debug\net5.0\StaticPart1.pdb
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\obj\Debug\net5.0\StaticPart1.genruntimeconfig.cache
+C:\Users\Dell\Desktop\VisualStudio\VisualStudioForMahammad\StaticPart1\StaticPart1\obj\Debug\net5.0\ref\StaticPart1.dll
